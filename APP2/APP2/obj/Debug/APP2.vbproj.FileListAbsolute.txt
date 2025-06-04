@@ -1,0 +1,16 @@
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\bin\Debug\APP2.exe.config
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\bin\Debug\APP2.exe
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\bin\Debug\APP2.pdb
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\bin\Debug\APP2.xml
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2.vbproj.AssemblyReference.cache
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\MainWindow.baml
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\MainWindow.g.vb
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\Application.g.vb
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2_MarkupCompile.cache
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2.g.resources
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2.Resources.resources
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2.vbproj.GenerateResource.cache
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2.vbproj.CoreCompileInputs.cache
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2.exe
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2.xml
+C:\Users\isuru\Desktop\Python\Visual Studio\APP2\APP2\obj\Debug\APP2.pdb
